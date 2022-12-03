@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flurin</h1>
-<h3 align="center">I'm loving See Sharks...</h3>
+<h3 align="center">I'm loving Sea Sharks...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flurinbruehwiler&label=Profile%20views&color=0e75b6&style=flat" alt="flurinbruehwiler" /> </p>
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/plsdont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plsdont" height="30" width="40" /></a>
+<a href="https://twitter.com/plsdont@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plsdont@me" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/flurin-brühwiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="flurin-brühwiler" height="30" width="40" /></a>
 <a href="https://instagram.com/flurin_bruehwiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flurin_bruehwiler" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCaRhy3-v8vR40xntxiQCpVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCaRhy3-v8vR40xntxiQCpVg" height="30" width="40" /></a>
