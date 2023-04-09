@@ -11,15 +11,9 @@
 
 - 🤝 I’m looking for help with [Joa](https://github.com/Joa-Launcher/Joa)
 
-- 👨‍💻 All of my projects are available at right here
-
 - 📝 I will someday maybe write articles on [Joa](Joa)
 
 - 💬 Ask me about **Joa**
-
-- 📫 How to reach me **pls don't**
-
-- 📄 Know about my experiences right here
 
 - ⚡ Fun fact **Woooooo isch de Joa?**
 
