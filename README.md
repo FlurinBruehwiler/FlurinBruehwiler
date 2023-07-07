@@ -5,18 +5,6 @@
 
 - 🔭 I’m currently working on [Joa](https://github.com/Joa-Launcher/Joa)
 
-- 🌱 I’m maybe someday in the future want to start learning **Rüst**
-
-- 👯 I’m looking to collaborate on [Joa](https://github.com/Joa-Launcher/Joa)
-
-- 🤝 I’m looking for help with [Joa](https://github.com/Joa-Launcher/Joa)
-
-- 📝 I will someday maybe write articles on [Joa](Joa)
-
-- 💬 Ask me about **Joa**
-
-- ⚡ Fun fact **Woooooo isch de Joa?**
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flurinbruehwiler&show_icons=true&locale=en&layout=compact" alt="flurinbruehwiler" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flurinbruehwiler&show_icons=true&locale=en" alt="flurinbruehwiler" /></p>
